@@ -1,0 +1,5 @@
+{"event_id":"E1","device_id":"SIG-01","device_type":"signal","sequence":1,"state":"RED","occurred_at_ms":1768100000000,"received_at_ms":1768100000050}
+{"event_id":"E2","device_id":"SIG-01","device_type":"signal","sequence":3,"state":"DARK","occurred_at_ms":1768100001000,"received_at_ms":1768100001050}
+{"event_id":"E3","device_id":"TC-01","device_type":"track_circuit","sequence":1,"state":"CLEAR","occurred_at_ms":1768100000100,"received_at_ms":1768100000150}
+{"event_id":"E4","device_id":"TC-01","device_type":"track_circuit","sequence":2,"state":"OCCUPIED","occurred_at_ms":1768100001200,"received_at_ms":1768100001250}
+{"event_id":"E5","device_id":"TC-01","device_type":"track_circuit","sequence":3,"state":"FAULT","occurred_at_ms":1768100001500,"received_at_ms":1768100001550}
